@@ -109,7 +109,7 @@ fun CurrenciesSection() {
 
                 Text(
                     modifier = Modifier.width(width),
-                    text = "Buy",
+                    text = "Buy  ",
                     fontWeight = FontWeight.SemiBold,
                     fontSize = 16.sp,
                     color = MaterialTheme.colorScheme.onBackground,
@@ -119,7 +119,7 @@ fun CurrenciesSection() {
 
                 Text(
                     modifier = Modifier.width(width),
-                    text = "Sell",
+                    text = "Sell  ",
                     fontWeight = FontWeight.SemiBold,
                     fontSize = 16.sp,
                     color = MaterialTheme.colorScheme.onBackground,
