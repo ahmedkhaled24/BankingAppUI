@@ -1,4 +1,4 @@
-package com.jetpackcompose.bankingappui
+package com.jetpackcompose.bankingappui.ui.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -20,6 +20,8 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.jetpackcompose.bankingappui.R
+import com.jetpackcompose.bankingappui.data.model.CardModel
 import com.jetpackcompose.bankingappui.ui.theme.BlueEnd
 import com.jetpackcompose.bankingappui.ui.theme.BlueStart
 import com.jetpackcompose.bankingappui.ui.theme.GreenEnd

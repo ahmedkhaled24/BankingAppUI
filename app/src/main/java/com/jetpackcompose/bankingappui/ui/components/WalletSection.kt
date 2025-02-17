@@ -1,4 +1,4 @@
-package com.jetpackcompose.bankingappui
+package com.jetpackcompose.bankingappui.ui.components
 
 import android.widget.Toast
 import androidx.compose.foundation.Image

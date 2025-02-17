@@ -1,4 +1,4 @@
-package com.jetpackcompose.bankingappui
+package com.jetpackcompose.bankingappui.data.model
 
 import androidx.compose.ui.graphics.vector.ImageVector
 
