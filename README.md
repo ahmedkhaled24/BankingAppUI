@@ -4,7 +4,7 @@
 This project **focuses on UI only** without actual authentication logic, making it a great starting point for mastering **Jetpack Compose** and navigation. 🚀  
 
 ## 📸 Screenshot of the Project
-![Image](https://github.com/user-attachments/assets/e9bfd3c9-93e8-4235-b1b9-e4bf29b8be41)
+![Image](https://github.com/user-attachments/assets/aa55996f-1907-4f38-926c-2b783ba2f656)
 
 ## 🛠️ Technologies Used
 - Kotlin
